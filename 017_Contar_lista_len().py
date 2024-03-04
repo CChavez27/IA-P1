@@ -9,7 +9,6 @@
 #Practica 17    	Contar elementos con len().						
 #Desarrollado por Salazar Chavez Cristian Uriel :D
 
-
 #Declaramos nuestra variable-lista con '[]'
 Com =   ['CPU', 'MB', 'PSU', 'RAM', 'SSD', 'FAN' , 'CASE' , 'HDD']
 print('Lista de componentes para una PC GAMER\n\t', Com)

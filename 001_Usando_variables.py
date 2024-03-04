@@ -11,4 +11,4 @@ y = 2
 
 #Realizamos la suma de variables e imprimimos su resultado
 suma = x+y 
-print(z) 
+print(suma) 

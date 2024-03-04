@@ -1,0 +1,19 @@
+# Codigo para utilizar acentos 
+#----------------------------------↓
+#!/usr/bin/env python
+# _*_ coding: cp1252 _*_
+# _*_ cdoing: 850 _*_
+# _*_ coding: utf-8 _*_ 
+#----------------------------------↑
+#Practica 19    	Cómo convertir tuplas a listas y viceversa.							
+#Desarrollado por Salazar Chavez Cristian Uriel :D
+
+#Declaramos nuestra variable-lista con '[]'
+Com =   ['CPU', 'MB', 'PSU', 'RAM', 'SSD', 'FAN' , 'CASE' , 'HDD']
+tupla = tuple(Com)
+print('Conversion de lista a tupla commpletada' , tupla)
+
+#Declaramos nuestra variable-tupla con '()'
+Precio =   ('3000', '2000', '3500', '1000', '1500', '500' , '2500' , '500')
+lista = list(Precio)
+print('Conversion de tupla a lista commpletada' , lista)

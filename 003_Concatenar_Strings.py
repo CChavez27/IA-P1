@@ -5,7 +5,7 @@
 # _*_ cdoing: 850 _*_
 # _*_ coding: utf-8 _*_ 
 #----------------------------------↑
-#Practica 4 concatenar strings 
+#Practica 3 concatenar strings 
 #Desarrollado por Salazar Chavez Cristian Uriel :D
 
 #Declaramos nuestros strings

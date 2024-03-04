@@ -12,6 +12,6 @@
 Com =   ['CPU', 'MB', 'PSU', 'RAM', 'SSD', 'FAN' , 'CASE' , 'HDD']
 
 #Declaramos nuestra variable-tupla con '()'
-Precio =   ['3000', '2000', '3500', '1000', '1500', '500' , '2500' , '500', 'El precio del componente ']
+Precio =   ('3000', '2000', '3500', '1000', '1500', '500' , '2500' , '500', 'El precio del componente ')
 
 print(Precio[-1] , Com[-1] , Precio[-2])
